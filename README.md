@@ -19,3 +19,4 @@ Pour la suite, les deux sites ont plusieurs améliorations possibles.
 Le premier site, nous pourrions améliorer son design ainsi que ses contrôles afin de pouvoir avoir la rotation des modèles correcte, amélioration de l'affichage des modèles, amélioration des "jeux de lumières". Nous pourrions aussi avoir un affichage des descriptions des œuvres présent sur le site. 
 
 Pour le second site, en termes d’améliorations, nous avions comme idée d'avoir une section cliquable dans nos "cases" de présentation des œuvres afin d'ouvrir l'œuvre en question sur une autre page et en plus grand avec une description détaillée. 
+Nous pouvons aussi améliorer la qualité des modèles en faisant plus de photo pour la génération des points.
